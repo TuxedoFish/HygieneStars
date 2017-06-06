@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "190895900987",
+    "firebase_url": "https://pendulum-e7560.firebaseio.com",
+    "project_id": "pendulum-e7560",
+    "storage_bucket": "pendulum-e7560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190895900987:android:3cc5467431d141bd",
+        "android_client_info": {
+          "package_name": "com.pendulum.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190895900987-4hsghogn16h94fs1q87e7mlsq2khv6o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pendulum.game",
+            "certificate_hash": "4f9c477811c65ab25661eb7b14f86506fe760d86"
+          }
+        },
+        {
+          "client_id": "190895900987-16tjm6p988janv9h54okk5vtt33an17s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZw44t84l4Wz80Y2YJfMV_M0bEY43IAIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
